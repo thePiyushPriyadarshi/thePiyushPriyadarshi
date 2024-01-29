@@ -8,7 +8,7 @@ I'm passionate about leveraging technology to build meaningful solutions. Let's 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [piyushjha.ktr@gmail.com](mailto:piyushjha.ktr@gmail.com)
-* 🤝  I'm open to collaborating on ’m looking to collaborate on project based on Web (Html, CSS, JS), React, NextJs as well as projects based on Web3.
+* 🤝  I'm open to collaborating on ’m looking to collaborate on project based on Web (Html, CSS, JS), React and NextJs.
 * ⚡  Ever-curious, I am constantly delving into the latest enchantments and summoning new knowledge to stay ahead of the curve.
 
 ### Skills

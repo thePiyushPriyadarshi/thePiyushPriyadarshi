@@ -1,66 +1,140 @@
-# Piyush Priyadarshi  
+<div align="center">
 
-### About Me
+# Hi 👋, I'm Piyush Priyadarshi
 
-I am a self-motivated developer who thrives in problem-solving and creating efficient, scalable solutions. My journey into tech began with a fascination for web development, and now I focus on full-stack development. I am constantly evolving my skills to remain ahead of the curve and am always looking for new challenges.🚀✨
+### Backend & AI Engineer · GenAI · RAG · Agentic Systems
 
-Let’s connect and collaborate to create something extraordinary!
-- 🌍 **Location**: India  
-- ✉️ **Email**: [piyushjha.code@gmail.com](mailto:piyushjha.code@gmail.com)  
-- 🤝 **Collaboration Interests**: Open to collaborating on web development projects with a focus on **HTML**, **CSS**, **JavaScript**, **React**, and **Next.js**.  
-- ⚡ **Curiosity**: Continuously learning and experimenting with the latest technologies to stay ahead in the fast-paced tech world.
+I build **AI systems, scalable backends, and developer-focused products**.
+Focused on **RAG, GraphRAG, agentic workflows, MCP, and LLM applications**.
 
----
+<br/>
 
-## 🔥 **BugHook UI**: Building Reusable Components for Developers
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thePiyushpriyadarshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://piyushpriyadarshi.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushjha.code@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsPiyushJha)
 
-**BugHook UI** is a library of reusable, animated UI components designed to simplify web development for React and Next.js developers. The focus is on easy-to-use, copy-paste components that can be effortlessly integrated into projects. Built with flexibility in mind, each component in the library is designed for a seamless developer experience, with a special emphasis on accessibility and performance.
-
-### Key Features of BugHook UI:
-- **Reusable Components**: Designed to be easily reused across multiple projects.
-- **Animation & Flexibility**: Beautiful animations that add flair to your UIs without compromising on performance.
-- **Easy Integration**: Ready-to-use components that are easy to copy and paste into your React or Next.js projects. 
-- **Clear Documentation**: Each component comes with a preview and show code section, making it easy for developers to understand how to integrate them into their own projects.
-
-The library aims to reduce development time and effort while maintaining high-quality user interfaces.  
-**Check out BugHook UI** at [ui.bughook.com](https://ui.bughook.com).
+</div>
 
 ---
 
-### Skills
+## 🙋 About Me
 
-- **Languages**: JavaScript, TypeScript, Python, C++, C  
-- **Web Technologies**: HTML5, CSS3, React, Next.js, Node.js, Express, Redux  
-- **Databases**: MongoDB, PostgreSQL  
-- **DevOps**: Docker, Git  
-- **Tools**: Visual Studio Code  
+I enjoy solving complex engineering problems and turning them into **reliable, scalable systems**. My current focus is on **Generative AI, backend engineering, and AI-powered applications**, particularly building LLM systems that work effectively with real-world data.
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+I've worked on **enterprise AI assistants** as well as a **statewide government platform serving 40,000+ students**. Outside of work, I enjoy solving DSA problems, exploring AI, and occasionally over-engineering a UI.
 
 ---
 
-### Connect with Me
+## 🔭 What I Work With
 
-- **GitHub**: [@thePiyushPriyadarshi](https://www.github.com/thePiyushPriyadarshi)  
-- **LinkedIn**: [Piyush Priyadarshi](https://www.linkedin.com/in/thePiyushPriyadarshi)  
-- **Twitter**: [@itsPiyushjha](https://www.x.com/itsPiyushjha)  
-- **Instagram**: [@piyush._.priyadarshi](http://www.instagram.com/piyush._.priyadarshi)  
+| Category | Stack |
+| :--- | :--- |
+| 🤖 **GenAI** | RAG · GraphRAG · LangGraph · MCP · LLMs |
+| ⚙️ **Backend** | Python · FastAPI · Node.js · Spring Boot |
+| 🌐 **Frontend** | TypeScript · React · Next.js |
+| 🗄️ **Data** | PostgreSQL · MongoDB · OpenSearch · Qdrant |
+| 🚀 **Interests** | AI Systems · Scalable Infrastructure · Developer Tools |
+| 💻 **DSA** | 500+ LeetCode problems |
 
 ---
 
-### GitHub Stats
+## 🛠️ Tech Stack
 
-[![Piyush's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thePiyushPriyadarshi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/thePiyushPriyadarshi)
+### AI / GenAI
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thePiyushPriyadarshi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/thePiyushPriyadarshi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
+### Backend & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Tools & Cloud
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Enterprise AI Knowledge Assistant
+
+Enterprise knowledge assistant built with **RAG and agentic workflows**, integrating Confluence, OpenSearch, LangGraph, Azure OpenAI, and MCP.
+
+`RAG` `LangGraph` `Azure OpenAI` `OpenSearch` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Kaizen Prep
+
+AI-powered **UPSC/PCS evaluation platform** for automated answer evaluation, detailed feedback, and learning insights.
+
+`GenAI` `LLM Evaluation` `FastAPI` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Government Internship Portal
+
+Statewide internship platform for the **Government of Bihar**, supporting **40+ colleges and 40,000+ students**.
+
+`Java` `Spring Boot` `PostgreSQL` `Hibernate` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 BugHook UI
+
+Reusable and animated **React/Next.js components** designed for fast integration, accessibility, and developer experience.
+
+`React` `Next.js` `TypeScript` `UI/UX`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Prize — Inter College Hackathon
+- 🥇 1st Prize — Inter College Competitive Programming
+- 💻 500+ LeetCode problems solved
+- ☁️ Microsoft Certified: Azure Data Fundamentals
+
+---
+
+<div align="center">
+
+
+<br/>
+
+*⚡ Building AI systems, solving problems, and learning every day.*
+
+</div>
